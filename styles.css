@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+*{
+    background-color: #FEFBF3;
+}
+
+body{
+    background-color: transparent;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-envelope {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+}
+iframe{
+    width: 60%;
+}
+
+.boxp{
+    border: 1px solid silver;
+    width: 40%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    border-radius: 2px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+    padding-left: 3px;
+
+}
+
+
+.box{
+    border: 1px solid silver;
+    width: 95%;
+    margin: auto;
+    border-radius: 2px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+    padding-left: 3px;
+}
+
+.boxed-page {
+
+    position: relative;
+
+    width: 1000px;
+    padding-left: 10px;
+    margin: 0 auto;
+
+    background-color: #fff;
+
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+    -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
